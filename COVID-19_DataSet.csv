@@ -1,0 +1,13 @@
+Country,Year,Month,COVID patients,Vaccination Drive,Recoveries,Deaths
+INDIA,2020,March,1071,None,100,29
+INDIA,2020,April,"33,062",None,"10,000",1079
+INDIA,2020,May,"139,049",None,1200,"4,000"
+INDIA,2020,June,"549,036",None,800,"16,908"
+INDIA,2020,July,"1,482,490",None,"953,099","33,020"
+INDIA,2020,August,"3,432,490",None,"2,583,099","61,202"
+INDIA,2020,September,"5,089,490",None,"1,755,099","92,020"
+INDIA,2020,October,"8,082,490",None,"7,371,099","121,344"
+INDIA,2020,November,"9,882,490",None,"9,853,099","135,020"
+INDIA,2020,December,"10,382,490",None,"10,993,099","149,020"
+INDIA,2021,January,"10,382,490",None,"10,993,099","149,020"
+INDIA,2021,Febuary,"20,382,490",None,"15,393,339","180,020"
